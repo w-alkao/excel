@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](../images/Final_Dashboard.gif)
+![1_Salary_Dashboard.png](images/Final_Dashboard.gif)
 
 ## Introduction
 
