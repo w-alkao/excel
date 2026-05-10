@@ -1,34 +1,29 @@
-# Excel Salary Dashboard
+# Projet Dashbord Excel
+# Analyse Offres Emploi Data dans le Monde
 
 ![1_Salary_Dashboard.png](images/Final_Dashboard.gif)
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+> Ce projet consiste en la création d'un dashbord interactif sous Microsoft Excel permettant d'analyser les offres d'emploi dans le domaine de la data dans le monde.
+> Ce projet peut aider à avoir un apperçu des salaires des metiers de la data à travers le monde. Le tableau de bord fournit les informations sur les salaires médians selon les métiers, les types de contrats les plus proposés, les pays offrant le plus d'opportunités, les plateformes de recrutement les plus utilisé, le nombre total d'offres d'emploi.
+> L'Objectif principal de ce projet est de transformer des données brutes en informations visuelles facilles à comprendre afin d'aider à la prise de décision et à l'analyse du marché de l'emploi data dans le monde.
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+### Objectifs du Projet
+Pratiquer l'analyse de données avec Excel, Concevoir un dashbord interactif et lisible, explorer le marché des métiers de la data dans le monde, presenter des indicateurs clés (KPI), developper des compétences en visualisation de données.
+
+### Outils Utilisé
+Microsoft Excel (Power Query, Tableaux croisés dynamiques, Graphiques dynamiques, Segments/Slicers, validation des données, fonctions et formules), Github pour le partage du projet.
 
 ### Dashboard File
 My final dashboard is in [Salary_Dashboard.xlsx](Data_Science_Salary_Dashbord.xlsx).
 
-### Excel Skills Used
+### Ensemble de Données
 
-The following Excel skills were utilized for analysis:
+Les données utilisé pour ce projet proviennent des informations du monde reel des metiers de la science de données.
+ Les données qui ont servi à l'elaboration de ce projet provienne du tutoriel de Luke Barousse. Ils contiennent des information detaillés sur les different job, a savoir, le nom, le salaires, la localité, etc...
 
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
-
-### Data Jobs Dataset
-
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
-
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
-
-## Dashboard Build
+## Structure du Dashbord
 
 ### 📉 Charts
 
