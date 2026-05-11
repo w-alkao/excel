@@ -122,6 +122,6 @@ Grâce à ce projet, j'ai renforcé mes compétences en:
 
 ## Fichier du Projet
 📦 Data-Jobs-Dashboard
- ┣ 📊 Dashboard.xlsx
- ┣ 📷 dashboard.png
- ┗ 📄 README.md
+┣ 📊 Dashboard.xlsx
+┣ 📷 dashboard.png
+┗ 📄 README.md
