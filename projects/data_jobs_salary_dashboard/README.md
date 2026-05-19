@@ -48,7 +48,7 @@ The dataset used for this project contains real-world data science job informati
 - **📍 Locations**
 - **🛠️ Skills**
 
-You can find a raw data here: ![raw_data](../dataset)
+You can find a raw data here: ![raw_data](../../dataset)
 
 ## Dashboard Features
 
