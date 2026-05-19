@@ -1,34 +1,56 @@
-# Excel Salary Dashboard
+# Excel Project
+# Data Jobs Salaries Dashboard
 
 ![1_Salary_Dashboard.png](images/Final_Dashboard.gif)
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+### Project Overview
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This project focuses on building an interactive dashboard in Microsoft Excel to analyze jobs salaries in the data industry across the world.
+
+The dashboard provides insights into:
+
+- Median salaries across data-related roles
+- Job distribution by employment type
+- Countries with the highest number of opportunities
+- Most popular job platforms
+- Total number of job listings
+
+The main goal of this project is to transform raw job market data into meaningful and interactive visual insights that support data-driven decision-making
+
+### Project Objectives
+
+- Pratice data analysis using Excel
+- Design an interactive and user-friendly dashboard
+- Explore trends in the data job market
+- Present key performance indicators (KPIs)
+- Improve data visulalization skills
+
+### Tools & Technologies
+
+- Microsoft Excel
+    - **📉 Charts**
+    - **🧮 Formulas and Functions**
+    - **❎ Data Validation** 
+- Github for project sharing and documentation
 
 ### Dashboard File
-My final dashboard is in [Salary_Dashboard.xlsx](Data_Jobs_Salary_Dashboard.xlsx).
 
-### Excel Skills Used
-
-The following Excel skills were utilized for analysis:
-
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
+My final dashboard is in ![Salary_Dashboard.xlsx](Data_Jobs_Salary_Dashboard.xlsx).
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via Luke Barousse's Excel course (link). It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
 
-## Dashboard Build
+You can find a raw data here: ![raw_data](../dataset)
+
+## Dashboard Features
 
 ### 📉 Charts
 
@@ -43,7 +65,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](images/Country_Map.gif)
+![Salary_Dashboard_Chart2.png](images/Country_Map.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -74,7 +96,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](images/Screenshot1.png)
+![Salary_Dashboard_Screenshot1.png](images/Screenshot1.png)
 
 📉 Dashboard Implementation
 
@@ -91,7 +113,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](images/Screenshot2.png)
+![Salary_Dashboard_Type.png](images/Screenshot2.png)
 
 📉 Dashboard Implementation:
 
@@ -108,6 +130,25 @@ IF(
 
 <img src="images/Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
+### key Insights
+
+Some insights identified from the dashboard include:
+- Senior Data Scientist and Machine Learning Engineer roles tend to offer the highest salaries
+- Full-time positions represents the majority of job postings
+- Indeed appears to be the leading recruitment platform in the data
+- The United States has one of the most highest concentration of job opportunities
+
+### Skills Demonstrated
+
+This project helped strengthen my skills in:
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Advanced Excel Techniques
+- Business Insight Communication
+
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Luke Barousse Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
