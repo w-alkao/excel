@@ -1,7 +1,16 @@
-# Excel Project
-# Data Jobs Salaries Dashboard
+# Data Jobs Dashboard
 
 ![1_Salary_Dashboard.png](images/Final_Dashboard.gif)
+
+**Project Structure**
+- [Excel Data Jobs Dashboard File (.xlxx)](Data_Jobs_Dashboard.xlsx)
+- [Project Description (README File)](README.md)
+- [Project Data Directory /](data/)
+- [Project Images Directory /](images/)
+
+
+ ---
+
 
 ## Introduction
 
@@ -35,20 +44,17 @@ The main goal of this project is to transform raw job market data into meaningfu
     - **❎ Data Validation** 
 - Github for project sharing and documentation
 
-### Dashboard File
 
-My final dashboard is in ![Salary_Dashboard.xlsx](Data_Jobs_Salary_Dashboard.xlsx).
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via Luke Barousse's Excel course (link). It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
 
-You can find a raw data here: ![raw_data](../../dataset)
 
 ## Dashboard Features
 

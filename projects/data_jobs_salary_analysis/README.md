@@ -1,5 +1,11 @@
 
-# Project 2 Analysis
+# Data Jobs Analysis
+
+**Project Structure**
+- [Excel Data Jobs Analysis File (.xlxx)](Data_Jobs_Analysis.xlsx)
+- [Project Description (README File)](README.md)
+- [Project Data Directory /](data/)
+- [Project Images Directory /](images/)
 
 ## Introduction
 
