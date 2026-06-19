@@ -1,4 +1,4 @@
-# Data Jobs Dashboard
+# Coffee Sales Dashboard
 
 
 **Project Structure**
